@@ -8,7 +8,7 @@ Normally that script was meant for only my private personal use to watch my own 
 The reason why i want to make it into PHP is because i never got CGI scripts working, no matter what. So before RiiTube's repository was updated i did the playlist first which i found out that it is plaintext in UTF-8. So i recreated it and added `$url = "http://" . $_SERVER['HTTP_HOST'];` to make the playlist automaticly add the ip address/domain of the server so i wouldn't need to change to a new ip address/domain manually every time. and then for the render script or whatever i should call it i did... and i'm also really honest with you, i did converted that one CGI script that has the ffmpeg command to handle convertion in server-sided with ChatGPT. but i also modifed the converted script myself to remove the Youtube and Vimeo functionality.
 
 # Installation
-It is easy to setip your own server so here are the steps you do need:
+It is easy to setup your own server so here are the steps you do need:
 
 ### Requirements
 To make your own instance you need:
