@@ -38,7 +38,7 @@ to
 
 echo "File1=" . $url . "/render/?q=http%3A//yourstream.com/stream/index.m3u8&site=iptv\n"; <-- Your IPTV streaming url
 ```
-to add more stream just make like File1, File2, File3 etc. Same goes to `title` and `Length`. just stay `Length` to `9999999`.
+to add more streams just make like File1, File2, File3 etc. Same goes to `title` and `Length`. just stay `Length` to `9999999`.
 
 # Watching on WIIMC
 
