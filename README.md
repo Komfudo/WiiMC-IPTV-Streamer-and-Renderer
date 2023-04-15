@@ -42,7 +42,7 @@ to add more streams just make like File1, File2, File3 etc. Same goes to `title`
 
 # Watching on WIIMC
 
-To watch it on WIIMC first download WIIMC and WIIMC-SS from the Open Shop Channel and then go to WIIMC's directory and open onlinemedia.xml. add this example line but modify it on your domain of your instance:
+To watch it on WIIMC first download WIIMC and WIIMC-SS from the Open Shop Channel and then go to WIIMC's directory and open onlinemedia.xml. add this example line but modify it from your domain of your instance:
 
 ```
 <folder name="folder name of your instance">
